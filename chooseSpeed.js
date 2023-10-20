@@ -18,35 +18,35 @@ var randomSpeed = new Array(0,1);
 
 function chooseSpeed()
 {	  
-	// if (inlet == 0) {
-	//     pitchByNote[0] = arguments[0];
-    // 	pitchByNote[1] = arguments[1];
-	// }
-	// if (inlet == 1) {
-	//     assignSpeed[0] = arguments[0];
-    // 	assignSpeed[1] = arguments[1];
-	// }
-	// if (inlet == 2) {
-	//     randomSpeed[0] = arguments[0];
-    // 	randomSpeed[1] = arguments[1];
-	// }
+	if (inlet == 0) {
+	    pitchByNote[0] = arguments[0];
+    	pitchByNote[1] = arguments[1];
+	}
+	if (inlet == 1) {
+	    assignSpeed[0] = arguments[0];
+    	assignSpeed[1] = arguments[1];
+	}
+	if (inlet == 2) {
+	    randomSpeed[0] = arguments[0];
+    	randomSpeed[1] = arguments[1];
+	}
 
-	// if(pitchByNote[0]==1){
-	// 	outlet(0, pitchByNote[1])  
-	// 	//post("itchByNote"+pitchByNote)
-	// 	return 
-	// }
-	// if(assignSpeed[0]==1){
-	// 	outlet(0, assignSpeed[1]) 
-	// 	//post("assignSpeed"+assignSpeed)
-	// 	return
-	// }
-	// if(randomSpeed[0]==1){
-	// 	outlet(0, randomSpeed[1]) 
-	// 	//post("randomSpeed"+randomSpeed)
-	// 	return
-	// }
-	// outlet(0,1)
+	if(pitchByNote[0]==1){
+		outlet(0, pitchByNote[1])  
+		//post("itchByNote"+pitchByNote)
+		return 
+	}
+	if(assignSpeed[0]==1){
+		outlet(0, assignSpeed[1]) 
+		//post("assignSpeed"+assignSpeed)
+		return
+	}
+	if(randomSpeed[0]==1){
+		outlet(0, randomSpeed[1]) 
+		//post("randomSpeed"+randomSpeed)
+		return
+	}
+	outlet(0,1)
 } 
 
  
