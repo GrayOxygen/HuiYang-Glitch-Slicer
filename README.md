@@ -35,7 +35,7 @@ bpatcher for global pitch control
 
 bpatcher for playback and loop control
 ![截图6](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/a460e185-8161-4fc0-a52e-59c8ecec2a27)
-![Uploading 截图7.png…]()
+![截图7](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/82878f20-a720-4b45-8937-2f7ff4b9b380)
 
 
 bpatcher for grid
