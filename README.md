@@ -1,17 +1,20 @@
 # HuiYang-Glitch-Slicer
-This plugin is a simple slicer that allows the addition of glitch and granular effect, featuring three major modules:
+This plugin is a simple slicer that allows the addition of glitch and granular effect:
+## How to Use
+copy all the files to /User Library/Presets/Instruments/Max Instrument, and then you will find it in max in ableton live
 
-## Global Speed Control
+## Major Modules
+### Global Speed Control
 1. Pitch by Note Mode: Pitch is determined by the note's high or low, affecting the pitch of the slice.
 2. Manual Speed Control: Allows for manual speed adjustments, including reverse playback.
 3. Random Speed on Specified Beats: Speed can be randomized at specific beats.
 
-## Global Pitch Control
+### Global Pitch Control
 1. Formant Sound Control: Adjusts the sound's formant.
 2. Zero Crossing Change: Between the Lower Pitch and Higher Pitch Button, there can be a dramatic change because the audio switches to the pitch set by another button whenever one button becomes zero.
 3. Pitchshift Mode And Quality
 
-## Loop Control
+### Loop Control
 1. Normal Mode: MIDI note control over different slices.
 2. Glitch Mode: Offset grid allows for specifying or random playback of different slices, creating a granular effect. The Offset values can also be applied to velocity or pitch to create variations in volume or pitch.
 
