@@ -1,2 +1,2 @@
 # HuiYang-Glitch-Slicer
-glitch slicer, simple sampler
+glitch slicer, simple sampler, simple granular effect
