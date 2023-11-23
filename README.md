@@ -20,32 +20,30 @@ copy all the files to /User Library/Presets/Instruments/Max Instrument, and then
 
 
 ## Implementation  
-
-
 outermost patcher
-![截图1](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/cdf41f1d-83d6-4193-a499-b698f0e94625)
-![截图2](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/a9281354-20aa-4a88-aa04-b2c60f39b6c8)
-![截图3](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/c50bc4ec-f73e-4cf9-be2b-67df0e2b246f)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/18d045d1-209d-408c-bc0a-36f8e30874a3)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/0c5b964b-bac3-4641-b38a-b1e419b9223c)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/857dd243-bc96-4aa2-85a9-761792f1890d)
 
 
 bpatcher for global speed control
-![截图4](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/5941927b-47d5-4828-b608-66e4ed379d31)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/a584a0d1-5141-46e9-99a3-7e92990ea92e)
 
 
 bpatcher for global pitch control
-![截图5](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/afd42017-c220-46ec-8308-a83886d87169)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/4db96650-47a5-4d04-9b20-2865751b4d69)
 
 
 bpatcher for playback and loop control
-![截图6](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/a460e185-8161-4fc0-a52e-59c8ecec2a27)
-![截图7](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/82878f20-a720-4b45-8937-2f7ff4b9b380)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/8e5f19f3-7c3d-4762-a1f9-f5eaccbc6628)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/52254003-49d4-4583-9b46-b4c807cf0f2c)
 
 
 bpatcher for grid
-![截图8](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/ce62cf17-af94-4f4f-bdd9-00bd9c454ee8)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/d7d388a9-641b-4041-bb4e-389441775dc7)
 
 
 bpatcher for glitch slice scanning
-![截图9](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/05198a8c-09f5-4905-8421-64d8b1391d94)
+![image](https://github.com/GrayOxygen/HuiYang-Glitch-Slicer/assets/5812140/3cf73d11-cd05-437e-9a5a-e829caec5172)
 
 
