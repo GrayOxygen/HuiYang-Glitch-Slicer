@@ -1,5 +1,5 @@
 # HuiYang-Glitch-Slicer
-This plugin is a simple slicer that allows the addition of glitch and granular effect:
+This plugin is a simple slicer that allows the addition of glitch and granular effect:  
 https://maxforlive.com/library/device/9827/huiyang-glitch-slicer
 
 ## How to Use
