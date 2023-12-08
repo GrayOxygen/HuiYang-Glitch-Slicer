@@ -1,5 +1,7 @@
 # HuiYang-Glitch-Slicer
 This plugin is a simple slicer that allows the addition of glitch and granular effect:
+https://maxforlive.com/library/device/9827/huiyang-glitch-slicer
+
 ## How to Use
 copy all the files to /User Library/Presets/Instruments/Max Instrument, and then you will find it in max in ableton live
 
